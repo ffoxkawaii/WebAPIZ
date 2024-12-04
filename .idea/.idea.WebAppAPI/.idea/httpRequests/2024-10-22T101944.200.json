@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2024-10-23",
+    "temperatureC": 9,
+    "summary": "Warm",
+    "temperatureF": 48
+  },
+  {
+    "date": "2024-10-24",
+    "temperatureC": 26,
+    "summary": "Scorching",
+    "temperatureF": 78
+  },
+  {
+    "date": "2024-10-25",
+    "temperatureC": 50,
+    "summary": "Mild",
+    "temperatureF": 121
+  },
+  {
+    "date": "2024-10-26",
+    "temperatureC": 49,
+    "summary": "Freezing",
+    "temperatureF": 120
+  },
+  {
+    "date": "2024-10-27",
+    "temperatureC": 42,
+    "summary": "Freezing",
+    "temperatureF": 107
+  }
+]
